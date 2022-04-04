@@ -1,0 +1,20 @@
+{
+  "name": "example-write-csv-stream",
+  "version": "1.0.0",
+  "description": "An example how to parse a json to csv with stream",
+  "main": "arquivo.js",
+  "scripts": {
+    "start": "node arquivo.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeoInCode/example-write-csv-stream.git"
+  },
+  "author": "Leonardo Mendes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LeoInCode/example-write-csv-stream/issues"
+  },
+  "homepage": "https://github.com/LeoInCode/example-write-csv-stream#readme"
+}
